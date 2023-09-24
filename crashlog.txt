@@ -1,0 +1,121 @@
+39 (string) mounted? table: 0xc7fc2fa2
+[WSMount] 	is 2966479594 (string) mounted? table: 0xc7ebabfa
+[WSMount] 	is 1420540808 (string) mounted? table: 0xc7fcbae2
+[WSMount] 	is 3040321439 (string) mounted? table: 0xc7897f7a
+[simfphys] is up to date, Version: 472
+(CCR) > Warning: The version you are running (5.2.0) is out of date, please update to the latest version (5.2.1)
+[Permanent Health & Armor Boost Applied]
+[PAC3] Wearing autoload...
+[PAC3] Transmitting outfit "my outfit" to server (658 Bytes)
+[PAC3] Requesting outfits in 8 seconds...
+[PAC3] Your part "my outfit" has been applied
+Visit our website UltraSandbox.co
+karon.guthrie<STEAM_0:1:593826411> spawned vehicle models/blu/tanks/t90ms.mdl
+[PAC3] Requesting outfits...
+Kill Sounds Enabled
+Kill Sounds Enabled
+Mushroom was killed by worldspawn
+Warning: killicon not found 'worldspawn'
+You have succesfully enabled Multicore Rendering
+You have succesfully enabled Multicore Rendering
+[PlayMode]PlayMode Selected: PVE
+Visit our website UltraSandbox.co
+Giving Mushroom a weapon_crossbow
+Muthax<STEAM_0:0:600811747> spawned vehicle models/blu/tanks/t90ms.mdl
+Press F1 for the Gestures Menu!
+AddMultiDamage:  g_MultiDamage.GetDamageForce() == vec3_origin
+koolaid<STEAM_0:1:541489370> spawned sent ent_l4d2_ammo_stack
+] stopsound 
+DEBUG: Clearing CSoundPatches after soundsound... (x2)
+Mushroom was killed by gmod_sent_vehicle_fphysics_wheel
+Mushroom<STEAM_0:0:601297883> spawned vehicle models/blu/tanks/t90ms.mdl
+karon.guthrie<STEAM_0:1:593826411> spawned vehicle models/blu/tanks/t90ms.mdl
+SWEP:SetWeaponHoldType - ActIndex[ "idle" ] isn't set! (defaulting to normal) (x6)
+karon.guthrie<STEAM_0:1:593826411> spawned vehicle models/blu/tanks/t90ms.mdl
+Boa was killed by worldspawn
+[Anti-Crash] Freezing crazy physics on Entity [1010][prop_physics]
+[Anti-Crash] Freezing crazy physics on Entity [1035][gmod_sent_vehicle_fphysics_wheel]
+[Anti-Crash] Freezing crazy physics on Entity [1032][gmod_sent_vehicle_fphysics_wheel]
+Check out the Discord! discord.gg/GjRmNP4N3e
+Press F4 to purchase Weapon Skins
+Mushroom<STEAM_0:0:601297883> spawned vehicle models/blu/tanks/t90ms.mdl
+Mushroom<STEAM_0:0:601297883> spawned vehicle models/blu/tanks/tiger.mdl
+[Ultra Sandbox]: You received 633 Ultra Coins for playing!
+Mushroom<STEAM_0:0:601297883> spawned vehicle models/blu/tanks/tiger.mdl
+Use !build to protect yourself or !pvp
+Use !votekick to kick players breaking rules or hacking
+Press F3 to click off screen
+Muthax<STEAM_0:0:600811747> spawned vehicle models/blu/tanks/t90ms.mdl
+karon.guthrie<STEAM_0:1:593826411> spawned vehicle models/blu/tanks/t90ms.mdl
+SWEP:SetWeaponHoldType - ActIndex[ "idle" ] isn't set! (defaulting to normal)
+Use !missions to complete missions and earn Coins!
+karon.guthrie<STEAM_0:1:593826411> spawned vehicle models/blu/tanks/t90ms.mdl
+Boa was killed by gmod_sent_vehicle_fphysics_wheel
+SWEP:SetWeaponHoldType - ActIndex[ "idle" ] isn't set! (defaulting to normal)
+Warning: killicon not found 'tfa_dax_big_glock'
+[Skills]: +10 Intelligence
+[Ultra Sandbox]: koolaid Has been Rewarded: 28984 Coins for completing a Mission!
+Completing Missions will earn you Coins!
+Mushroom was killed by gmod_sent_vehicle_fphysics_wheel
+Muthax: oops
+Mushroom<STEAM_0:0:601297883> spawned vehicle models/blu/tanks/tiger.mdl
+Muthax: sorry
+karon.guthrie<STEAM_0:1:593826411> spawned vehicle models/blu/tanks/t90ms.mdl
+Boa: KAron you ******
+koolaid: what is it?
+Muthax: MY TANK!!?!??!?!?
+Mushroom was killed by gmod_sent_vehicle_fphysics_wheel
+Mushroom<STEAM_0:0:601297883> spawned vehicle models/blu/tanks/tiger.mdl
+Toggle Kill Sounds in settings via tab menu
+Mushroom killed koolaid using gmod_sent_vehicle_fphysics_wheel
+You're playing on  ██  Ultra Sandbox |  Perks | Skills  ██  , enjoy your stay!
+[Anti-Crash] Removing out of bounds Entity [980][gmod_sent_vehicle_fphysics_gib]
+Muthax: oh well
+SWEP:SetWeaponHoldType - ActIndex[ "idle" ] isn't set! (defaulting to normal)
+Mushroom<STEAM_0:0:601297883> spawned vehicle models/blu/tanks/tiger.mdl
+Visit our website UltraSandbox.co
+Muthax: ok
+koolaid killed Mushroom using tfa_staff_wind_ult
+Warning: killicon not found 'tfa_staff_wind_ult'
+Muthax<STEAM_0:0:600811747> spawned vehicle models/combine_apc.mdl
+Giving Mushroom a weapon_shovel
+Warning: killicon not found 'weapon_shovel'
+Muthax<STEAM_0:0:600811747> spawned vehicle models/blu/conscript_apc.mdl
+karon.guthrie<STEAM_0:1:593826411> spawned vehicle models/blu/tanks/t90ms.mdl
+Boa was killed by worldspawn
+SWEP:SetWeaponHoldType - ActIndex[ "idle" ] isn't set! (defaulting to normal) (x5)
+Boa: KARON STOP IT ******* ******
+Boa suicided!
+SWEP:SetWeaponHoldType - ActIndex[ "idle" ] isn't set! (defaulting to normal)
+karon.guthrie<STEAM_0:1:593826411> spawned vehicle models/blu/tanks/t90ms.mdl
+You brought Muthax
+Use !missions to complete missions and earn Coins!
+Helpful Commands - !skills !events !hats !skins !missions !titles !perks
+Use !votekick to kick players breaking rules or hacking
+Use !votekick to kick players breaking rules or hacking
+UltraSandbox.co
+koolaid: muthax
+Muthax: ...
+koolaid: stop prop pushing
+Muthax: ok
+Muthax: i will sorry
+You returned Muthax to their original position
+Muthax<STEAM_0:0:600811747> spawned vehicle models/blu/conscript_apc.mdl
+Check out the Discord! discord.gg/GjRmNP4N3e
+koolaid<STEAM_0:1:541489370> spawned model models/props_interiors/refrigeratordoor02a.mdl
+Press ALT while running to Slide!
+koolaid<STEAM_0:1:541489370> spawned model models/hunter/plates/plate05x05.mdl
+koolaid<STEAM_0:1:541489370> spawned model models/hunter/plates/plate075x1.mdl
+koolaid<STEAM_0:1:541489370> spawned model models/hunter/plates/plate1x2.mdl (x2)
+Press e to push people!
+Mushroom was killed by worldspawn
+Use !missions to complete missions and earn Coins!
+Muthax: WANT TO GO TO OHIO? TOO BAD JUST GET IN MY TANK THING
+You committed suicide!
+You committed suicide!
+koolaid suicided!
+DEBUG: Clearing CSoundPatches after soundsound... (x2)
+Client sending to server with no netchannel! (x2)
+DEBUG: Clearing CSoundPatches after soundsound... (x4)
+Connecting to 64.110.27.141:27015...
+Connected to 64.110.27.141:27015
